@@ -83,7 +83,7 @@ The main features of LPC2148 include the following.
 NAME:A.Tharun
 REG.NO:212221240003
 DEPT:AI&ML
-~~~
+
 #include "main.h"
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
